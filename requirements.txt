@@ -2,4 +2,5 @@ pywin32
 pandas
 colorama
 browser-history
+python-registry
 pytest
